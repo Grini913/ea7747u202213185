@@ -9,5 +9,7 @@ export const environment = {
   platformProviderApiBaseUrl: 'http://localhost:3000',
   platformProviderOutdoorCentersEndpointPath: '/outdoor-centers',
   platformProviderReservationsEndpointPath: '/reservations',
-  logoProviderApiBaseUrl: 'https://img.logo.dev.com/'
+  logoProviderApiBaseUrl: 'https://img.logo.dev.com/',
+  newsProviderApiBaseUrl: 'https://open-meteo.com/',
+  newsApiKey: ''
 };
