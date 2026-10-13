@@ -4,6 +4,7 @@
     <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="myValues">
         <value>
+
           <list size="3">
             <item index="0" class="java.lang.String" itemvalue="matButton" />
             <item index="1" class="java.lang.String" itemvalue="mat-card-avatar" />
@@ -29,6 +30,10 @@
             <item index="9" class="java.lang.String" itemvalue="mat-card-title" />
             <item index="10" class="java.lang.String" itemvalue="mat-card-subtitle" />
             <item index="11" class="java.lang.String" itemvalue="mat-card-content" />
+=======
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="mat-button" />
+
           </list>
         </value>
       </option>
